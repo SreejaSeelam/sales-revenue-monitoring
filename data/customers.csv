@@ -22,3 +22,6 @@ C020,2022-09-15,West,P02,prepaid,active
 C021,2022-10-01,East,,prepaid,active
 C001,2022-01-15,North,P01,prepaid,active
 C001,2022-01-15,North,P01,prepaid,active
+C023,2022-09-05,Norh,P01,prepaid,active
+C024,2022/10/12,South,P02,postpaid,churned
+C025,2022-07-07,West,P03,potpaid,active
