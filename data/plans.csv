@@ -1,0 +1,7 @@
+plan_id,plan_name,price,validity_days,call_limit,data_limit_mb,sms_limit,plan_type,roaming_included
+P01,Starter Prepaid,50,30,100,1024,100,prepaid,No
+P02,Standard Prepaid,80,30,250,2048,250,prepaid,No
+P03,Pro Postpaid,120,30,Unlimited,10240,1000,postpaid,Yes
+P04,Premium Postpaid,200,30,Unlimited,20480,2000,postpaid,Yes
+P05,Night Owl Pack,30,7,50,512,50,prepaid,No
+P06,Family Plan,300,30,Unlimited,30720,3000,postpaid,Yes
