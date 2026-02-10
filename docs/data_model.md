@@ -17,7 +17,7 @@
 - bill_date: billing or recharge date
 - amount: amount charged
 - payment_status: success or failed
-## Plans
+## Plans/Subscription
 - plan_id: plan identifier
 - plan_name: product name
 - price: plan cost
